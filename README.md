@@ -18,7 +18,8 @@
 
 
 [Linkedin](https://www.linkedin.com/in/gabriel-koch-fodi-36b12b8b/)
-E-mail:gabrielkochfodi@gmail.com
+
+E-mail: gabrielkochfodi@gmail.com
 
 <!--
 **gabrikf/gabrikf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
