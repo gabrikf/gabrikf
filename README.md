@@ -16,8 +16,9 @@
 
 📧 Entre em contato comigo / Find me:
 
-[![Linkedin Badge](https://www.linkedin.com/in/gabriel-koch-fodi-36b12b8b/)
-[![Gmail Badge](https://tinyurl.com/y4y3v4ne)](mailto:gabrielkochfodi@gmail.com)
+
+[Linkedin](https://www.linkedin.com/in/gabriel-koch-fodi-36b12b8b/)
+E-mail:gabrielkochfodi@gmail.com
 
 <!--
 **gabrikf/gabrikf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
