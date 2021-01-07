@@ -6,9 +6,9 @@
 
 🔎 **I'm looking for**: Some job like: FullStack / Front-End / Back-End.
 
-📚 **Minha stack**: Javascript, NodeJs, React,  HTML, CSS, Bootstrap, Next, Axios, Express, MySQL, Firestore, SQLite.
+📚 **Minha stack**: Javascript, NodeJs, React, React-Native, Typescript, HTML, CSS, Bootstrap, Next, Nest, Axios, Express, GraphQL, Postgresql, MySQL, Firestore, SQLite.
 
-📚 **My stack**: Javascript, NodeJs, React,  HTML, CSS, Bootstrap, Next, Axios, Express, MySQL, Firestore, SQLite.
+📚 **My stack**: Javascript, NodeJs, React, React-Native, Typescript, HTML, CSS, Bootstrap, Next, Nest, Axios, Express, GraphQL, Postgresql, MySQL, Firestore, SQLite.
 
 🔭 **Perfil Profissional:** Sou Comprometido, tenho bom relacionamento com demais pessoas, gosto de trabalhar, aprendo as atividades rapidamente. Tenho boa interpretação das informações, uma boa visão de futuro e tenho orgulho dos serviços que presto.
 
