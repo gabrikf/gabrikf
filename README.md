@@ -2,10 +2,6 @@
 
 ### Hi there 👋
 
-🔎 **Busco**: Alguma vaga como FullStack / Front-End / Back-End.
-
-🔎 **I'm looking for**: Some job like: FullStack / Front-End / Back-End.
-
 📚 **Minha stack**: Javascript, NodeJs, React, React-Native, Typescript, HTML, CSS, Bootstrap, Next, Nest, Axios, Express, GraphQL, Postgresql, MySQL, Firestore, SQLite.
 
 📚 **My stack**: Javascript, NodeJs, React, React-Native, Typescript, HTML, CSS, Bootstrap, Next, Nest, Axios, Express, GraphQL, Postgresql, MySQL, Firestore, SQLite.
