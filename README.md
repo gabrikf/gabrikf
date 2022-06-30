@@ -1,7 +1,8 @@
 # Gabriel Koch Fodi
 
 ### Hi there 👋
-📚 **My stack**: Javascript / Typescript
+📚 **My stack**: 
+Javascript / Typescript
 
 👉 **Front-end:** React, Next, GraphQL, React-Native, React-Query, React-Hooks, Zustand, HTML, CSS, Styled-Components, CSSModules, TailwindCSS, ChakraUI, MUI, Jest, React-testing-library.
 
